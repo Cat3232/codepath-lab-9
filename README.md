@@ -39,7 +39,7 @@ Description: website green is vulnerable to Username Enumeration. When we enter 
 
 Vulnerability #1: Insecure Direct Object Reference
 
-Description: Website red is also vulnerable to url manipulation. If we change the (Id= ) to (Id=10) we are able to reveal information that was not previously available and is set to release septemebr 1. If we change the (Id= ) to (Id=11) we are also able to reveal information on an employee that was fired. 
+Description: Website red is also vulnerable to url manipulation. If we change the (Id= ) to (Id=10) we are able to reveal information that was not previously available. This information reveles that this page is set to release septemebr 1. If we change the (Id= ) to (Id=11) we are also able to reveal information on an employee that was fired. 
 
 <img src="Lab 9red.gif">
 
@@ -47,3 +47,5 @@ Description: Website red is also vulnerable to url manipulation. If we change th
 ## Notes
 
 Describe any challenges encountered while doing the work
+
+had a hard time finding any other vulnerablities. 
